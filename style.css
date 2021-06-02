@@ -1,0 +1,55 @@
+
+/* Colors and fonts */
+
+body {  
+	background-color: (250,200,150);
+	color: rgb(50,50,50);
+	font-family: 'Goblin One', cursive;
+	font-size: 16px;
+	font-weight: lighter;
+
+	  }
+h1,h2 ‘{  
+	font-family: serif;
+
+
+
+h1 {  
+	color: #e28f83 ;
+	font-family: Courier;
+	font-size: 32px;
+
+	background: white;                        
+    padding: 30px;                             
+    border-radius: 4px;                        
+    box-shadow: 0 10px 30px rgba(0,0,0,.1);  
+	  }
+
+
+h2 {  
+	color: rgb(100,100,100);
+	font-family: Courier;
+	font-size: 24px;
+	font-weight: lighter;
+	  }
+
+
+/* Custom design with class */
+
+.container {
+   width: 700 px;
+   margin: 40px auto;
+   
+
+}
+
+
+
+
+
+
+
+
+
+
+
